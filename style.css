@@ -18,7 +18,7 @@ body {
 
     background-color: white;
     border-radius: 10px;
-    box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
 button {
@@ -41,7 +41,7 @@ button:hover, #addTodo:hover {
     padding: 10px 15px;
     font-size: 20px;
     -webkit-appearance: none;
-    box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 10px 10px 3px rgba(0, 0, 0, 0.5);
 }
 #addTodo {
     background-color: lightgrey;
